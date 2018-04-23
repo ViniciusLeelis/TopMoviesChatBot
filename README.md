@@ -29,8 +29,8 @@ ___
 
 * Pesquisar filme aleatório
 
-![alt text](https://github.com/tiagosoares94/TopMoviesChatBot/blob/master/filme-aleatorio.png)
+<img src="https://github.com/tiagosoares94/TopMoviesChatBot/blob/master/filme-aleatorio.png" width="400">
 
 * Pesquisar filme por gênero
 
-![alt text](https://github.com/tiagosoares94/TopMoviesChatBot/blob/master/filme-genero.png)
+<img src="https://github.com/tiagosoares94/TopMoviesChatBot/blob/master/filme-genero.png" width="400">
