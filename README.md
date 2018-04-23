@@ -25,7 +25,7 @@ ___
 
 ___
 
-## Demostração
+## Demonstração
 
 * Pesquisar filme aleatório
 
