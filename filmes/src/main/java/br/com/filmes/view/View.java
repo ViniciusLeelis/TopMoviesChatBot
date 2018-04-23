@@ -25,7 +25,7 @@ import br.com.filmes.model.Model;
 public class View implements Observer{
 	
 
-	TelegramBot bot = TelegramBotAdapter.build("423201815:AAGYwsTIK6j8PNDalJitnL1BMpPWY2R_83M");
+	TelegramBot bot = TelegramBotAdapter.build("");
 
 	//Object that receives messages
 	GetUpdatesResponse updatesResponse;
